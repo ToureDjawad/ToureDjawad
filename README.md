@@ -1,7 +1,6 @@
 # Djawad TOURE ISSAHOU
 
 **Étudiant à l'IUT d'Aix-Marseille, site d'Arles**
-Parcours *Réalisation d'applications : conception, développement, validation*
 
 Je conçois et développe des applications web et mobiles de bout en bout, de la base de données jusqu'à la mise en production. Mon projet principal, **[WaShop](https://www.wa-shop.com/)**, est une plateforme de commerce sur WhatsApp utilisée par plus de 200 boutiques actives au Bénin et en Afrique de l'Ouest.
 
@@ -27,7 +26,7 @@ Je conçois et développe des applications web et mobiles de bout en bout, de la
 
 Plusieurs dépôts sont privés : le code est disponible sur demande.
 
-### Projets universitaires (BUT Informatique)
+### Projets universitaires
 
 - [SAÉ 2.04 · Base de données qualité de l'air](https://github.com/ToureDjawad/sae-s2.04-bdd-qualite-air) : modélisation UML, migration de 17 995 mesures ATMO vers un schéma normalisé, analyses SQL et pandas
 - [SAÉ 2.03 · Serveur de messagerie](https://github.com/ToureDjawad/sae-s2.03-serveur-messagerie) : Debian, Postfix, Dovecot, rapport technique
