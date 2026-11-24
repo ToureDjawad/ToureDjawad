@@ -5,7 +5,7 @@
 Je conçois et développe des applications web et mobiles de bout en bout, de la base de données jusqu'à la mise en production. Mon projet principal, **[WaShop](https://www.wa-shop.com/)**, est une plateforme de commerce sur WhatsApp utilisée par plus de 200 boutiques actives au Bénin et en Afrique de l'Ouest.
 
 > **Recherche de stage** : 12 semaines, du 29 mars au 18 juin 2027, en développement logiciel.
-> Ouvert à une alternance en BUT 3 dans la foulée, en région PACA ou à Paris.
+> Ouvert à une alternance dans la foulée, en région PACA ou à Paris.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-djawad--toure--issahou.vercel.app-0F172A?style=for-the-badge&logo=vercel&logoColor=white)](https://djawad-toure-issahou.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Djawad%20TOURE-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/djawad-toure-3287b2296/)
