@@ -1,6 +1,6 @@
 # Djawad TOURE ISSAHOU
 
-**Étudiant en BUT Informatique (2e année), IUT d'Aix-Marseille, site d'Arles**
+**Étudiant à l'IUT d'Aix-Marseille, site d'Arles**
 Parcours *Réalisation d'applications : conception, développement, validation*
 
 Je conçois et développe des applications web et mobiles de bout en bout, de la base de données jusqu'à la mise en production. Mon projet principal, **[WaShop](https://www.wa-shop.com/)**, est une plateforme de commerce sur WhatsApp utilisée par plus de 200 boutiques actives au Bénin et en Afrique de l'Ouest.
